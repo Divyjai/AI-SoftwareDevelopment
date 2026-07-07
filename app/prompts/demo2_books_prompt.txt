@@ -1,0 +1,5 @@
+Generate a FastAPI Books API with:
+- GET /books
+- POST /books
+- one Book model
+- pytest tests

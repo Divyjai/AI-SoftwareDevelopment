@@ -1,0 +1,5 @@
+Generate a FastAPI Tasks API with:
+- GET /tasks
+- POST /tasks
+- one Task model
+- pytest tests

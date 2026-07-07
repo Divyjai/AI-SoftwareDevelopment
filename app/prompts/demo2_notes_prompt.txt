@@ -1,0 +1,5 @@
+Generate a FastAPI Notes API with:
+- GET /notes
+- POST /notes
+- one Note model
+- pytest tests

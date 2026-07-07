@@ -1,0 +1,5 @@
+Generate a FastAPI Todo API with:
+- GET /todos
+- POST /todos
+- one Todo model
+- pytest tests
