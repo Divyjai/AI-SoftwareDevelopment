@@ -65,7 +65,13 @@ class BackendAgent(BaseAgent):
     def act(self): pass
     def validate(self): pass
     def report(self): pass
-class FrontendAgent(BaseAgent):
+class FrontendPlanner(BaseAgent):
+    def prepare(self, task): pass
+    def plan(self): pass
+    def act(self): pass
+    def validate(self): pass
+    def report(self): pass
+class FrontendExecutionAgent(BaseAgent):
     def prepare(self, task): pass
     def plan(self): pass
     def act(self): pass
